@@ -6,3 +6,5 @@ https://move-language.github.io/move/introduction.html
 MOVE 资源汇总：
 https://github.com/MystenLabs/awesome-move
 
+starcoin 开发：
+https://starcoin.org/zh/developers/#dapp
